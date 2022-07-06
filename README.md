@@ -1,2 +1,1 @@
 # nft-zoo-ticket
-# hi
